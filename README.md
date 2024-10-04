@@ -34,7 +34,7 @@ Vamos direto ao ponto! É fácil, olha só:
    ```html
    <button class="btn btn-success">Vamos lá!</button>
 
-   Você também pode acessar para ver o resulta clicando no link aqui em baixo!
+Você também pode acessar para ver o resulta clicando no link aqui em baixo!
 
-   https://bootstrap-ten-steel.vercel.app/  (esse link é referente ao arquivo index.html, onde mostra o bootstrap sem nenhuma costumização no CSS)
+https://bootstrap-ten-steel.vercel.app/  (esse link é referente ao arquivo "index.html" , onde mostra o bootstrap sem nenhuma costumização no CSS)
 
